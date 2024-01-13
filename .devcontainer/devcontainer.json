@@ -1,7 +1,7 @@
 {
     "image":"mcr.microsoft.com/devcontainers/universal:2",
     "runArgs": [
-        "--cpus=32",
+        "--cpus=4",
         "--memory=64g"
     ]
 }
